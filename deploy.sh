@@ -19,3 +19,6 @@ then
         cd ~/chef &&
         tar xj &&
         sudo bash ./install.sh $node"
+        
+        #
+        #
